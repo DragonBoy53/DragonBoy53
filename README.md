@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DragonBoy53
-- 👀 I’m interested in data scienes and anime
+- 👀 I’m interested in data sciences and anime
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++
 - 📫 How to reach me? My tg is @dragonboy53
